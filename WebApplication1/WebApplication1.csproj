@@ -69,8 +69,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Aguates.html" />
-    <Content Include="Contactanos.html" />
+    <Content Include="Pages\Aguates.html" />
+    <Content Include="Pages\Contactanos.html" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-reboot.css" />
@@ -83,8 +83,8 @@
     <Content Include="Images\Goku vs Vegeta.jpg" />
     <Content Include="Images\AguacatesCar.png" />
     <Content Include="Images\Turbante.jpg" />
-    <Content Include="Index.html" />
-    <Content Include="Mascarillas.html" />
+    <Content Include="Pages\Index.html" />
+    <Content Include="Pages\Mascarillas.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -184,7 +184,7 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
-    <Content Include="Turbantes.html" />
+    <Content Include="Pages\Turbantes.html" />
     <Content Include="Web.config" />
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />
@@ -201,7 +201,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <None Include="Pages\packages.config" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.0.0.min.map" />
     <None Include="Web.Debug.config">
